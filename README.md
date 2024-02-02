@@ -11,7 +11,7 @@ veg                    1. Idle vade              2.Poori                  3.Pong
 
 
 
-Non-Veg                1.Chicken Biryani         2.Mutton Biryani         3.Tandoori Chiken        4.Belulli kabab(1 more)   5.Fish tawa Fry
+Non-Veg                1.Chicken Biryani         2.Mutton Biryani         3.Tandoori Chiken        4.Rahul's Famous Belulli kabab(1 more)   5.Fish tawa Fry
 
 Full Meals Unlimited=$30.00
 
